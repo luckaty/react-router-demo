@@ -36,7 +36,7 @@ src/
 
 ## 🛠 Installation
 
-git clone https://github.com/your-username/react-router-demo.git
+git clone https://github.com/luckaty/react-router-demo.git
 cd react-router-demo
 npm install
 npm start
